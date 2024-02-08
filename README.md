@@ -4,7 +4,7 @@ Welcome to my Cloud Computing Projects Repository! Here, you'll find a collectio
 
 ## Projects
 
-- [Project 1: Containerization with Docker](./project1)
+- [Project 1: Time Server Node.js App Deployment on GCP](./time-server-nodejs)
 
 
 ## Getting Started
