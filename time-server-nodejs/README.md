@@ -14,7 +14,7 @@ This project involves deploying a Node.js application to function as a time serv
 - **Demonstrates Practical Application**: Showcases a simple yet functional server application using modern web technologies.
 
 ## Project Architecture
-![Project Architecture](./project_architecture.png)
+![Project Architecture](https://github.com/FanielS/cloud-computing-projects/blob/main/time-server-nodejs/project_architecture.jpg?raw=true)
 
 
 ## Deployment Steps
