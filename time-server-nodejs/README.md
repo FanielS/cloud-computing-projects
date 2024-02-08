@@ -21,7 +21,7 @@ This project involves deploying a Node.js application to function as a time serv
 1. **Set Up a Virtual Machine on GCP**
 2. **Launch VM using SSH**
 3. **Install Node.js and npm**: Instructions provided in slides.
-4. **Create and Edit Node.js Server Code**: Guidelines on writing and editing code.
+4. **Create and Edit Node.js Server Code**: Refer to google slides for sample code.
 5. **Run the Node.js File**: Using command `sudo node [file_name] [port_number]`.
 6. **Test Your Server**: Access the time server endpoint from your web browser:.
 
