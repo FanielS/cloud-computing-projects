@@ -16,6 +16,7 @@ This project involves deploying a Node.js application to function as a time serv
 - **Demonstrates Practical Application**: Showcases a simple yet functional server application using modern web technologies.
 
 ## Project Architecture
+![Time Server Node.js App](./project_architecture.png)
 
 
 ## Deployment Steps
