@@ -6,7 +6,7 @@ Faniel S. Abraham
 ## Project Description
 This project involves deploying a Node.js application to function as a time server on Google Cloud Platform (GCP). The server provides the current date and time in JSON format upon request.
 
-## [Kindly refer to this google slide for more project description and screenshots.](https://docs.google.com/presentation/d/1DZpzzYBBD16ClJQkfH7Yfuhs2kTPg3iRdOf_gEPDFDw/edit?usp=sharing)
+### [Kindly refer to this google slide for more project description and screenshots.](https://docs.google.com/presentation/d/1DZpzzYBBD16ClJQkfH7Yfuhs2kTPg3iRdOf_gEPDFDw/edit?usp=sharing)
 
 ## Key Features
 - **Efficient Handling**: Utilizes Node.js for server-side logic.
