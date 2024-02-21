@@ -1,8 +1,8 @@
 
 # Running Your First App on Kubernetes
 
-## GitHub Repository
-For more resources and code, visit [FanielS/cloud-computing-projects](https://github.com/FanielS/cloud-computing-projects).
+## Google Slides
+For more resources and code, visit [this Google Slide](https://docs.google.com/presentation/d/1iZ3OxBhgU2izPR56MEREu7-MwSA9xwwfQekp_mrOERw/edit?usp=sharing). It explains the steps with screenshots.
 
 ## Deployment Process
 
