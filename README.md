@@ -5,7 +5,7 @@ Welcome to my Cloud Computing Projects Repository! Here, you'll find a collectio
 ## Projects
 
 - [Project 1: Time Server Node.js App Deployment on GCP](./time-server-nodejs)
-- [Project 2: Run Your First App on Kubernetes on GCP](./Run your )
+- [Project 2: Run Your First App on Kubernetes on GCP](./running-your-first-app-on-kubernetes)
 
 
 ## Getting Started
